@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaeniel
+- 👋 Hi, I’m @kaeniel, i'm a Network Engineer
 - 👀 I’m interested in all about DevOps|CI|CD|Networking
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
