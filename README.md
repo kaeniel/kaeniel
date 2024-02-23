@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaeniel, i'm a Network Engineer
-- 👀 I’m interested in all about DevOps|CI|CD|Networking
-- 🌱 I’m currently learning DevOps
+- 👋 Hi, I’m @kaeniel, I'm DevOps Engineer and Site Reliability Engineer
+- 👀 I’m interested in all about DevOps and SRE topics.
+- 🌱 I’m currently learning more about the best practices of DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
